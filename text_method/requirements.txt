@@ -1,0 +1,21 @@
+# Core dependencies
+torch
+torchvision
+numpy
+scipy
+matplotlib
+scikit-learn
+
+# Deep Learning & Vision-Language Models
+transformers
+openai
+pydantic
+
+# Data handling & processing
+datasets
+tqdm
+python-dotenv
+
+# Visualization
+matplotlib
+seaborn
